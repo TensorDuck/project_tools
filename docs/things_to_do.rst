@@ -65,6 +65,8 @@ Parameter Fitting
 
     1. Decide on procedure and format for target data. 
     2. Integrate into the procedure for solving for the solutions.
+    3. Accomodate multiple FRET probe pairs fitting.
+    4. Modify to allow for different bining/handlings of FRET probe distance.
 
 3. ``RMSF``
 
